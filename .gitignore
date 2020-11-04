@@ -47,8 +47,4 @@ lib/particles.js.map
 .vscode
 /.idea
 
-/cjs
-/umd
-report.html
-
 package-lock.json
